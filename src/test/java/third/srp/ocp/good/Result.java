@@ -1,4 +1,4 @@
-package third.srp.good;
+package third.srp.ocp.good;
 
 public class Result {
 

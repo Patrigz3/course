@@ -9,7 +9,7 @@ public interface VehicleActions {
     void turnCameraOff();
 }
 
-//La clase vehiculo es abstracta. Con las clases abstractas usamos extends. Podremos hacer un coche o un car pero nunca un vehiculo porque lo hemos declarado como abstracto.
+//La clase vehiculo es abstracta. Con las clases abstractas usamos extends. Podremos hacer un coche o un drone pero nunca un vehiculo porque lo hemos declarado como abstracto.
 
 //Correcto tener mas interfaces: switchEngine deberia contener las dos primeras, switchRadio con otras dos
 //La interfaz VehicleActions dejaria de existir porq estaria dividida en varias
