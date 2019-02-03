@@ -2,23 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bca742d-3b47-4b19-ac9b-d43fe3bce046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Drone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwitchRadio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwtichCamera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/first/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/second/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/srp/good/LotJavi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CompareTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/CompareTriplets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LongValuesSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/LongValuesSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SimpleArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/SimpleArraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/good/AONResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocp/good/AONResultCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/good/RegularResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocp/good/RegularResultCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/good/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocp/good/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/good/ResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocp/good/ResultCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/good/ResultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocp/good/ResultHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/good/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ocp/good/ResultType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/VehicleActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/VehicleActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/second/arp/Lot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/srp/Lot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/SwitchRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/SwitchRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/VehicleActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/VehicleActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwitchRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwitchRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwtichCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwtichCamera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/AONResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/AONResultCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/RegularResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/RegularResultCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultType.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -45,23 +54,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="40" />
+          <entry key="java" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="40" />
+          <entry key="JAVA" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="5232" />
+          <entry key="java" value="5399" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5232" />
+          <entry key="JAVA" value="5399" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -70,56 +79,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Sum.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/Lot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="636">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/second/arp/Lot.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="544">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/good/LotJavi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <folding>
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#904#905#0" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1249#1250#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/bad/VehicleActions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/Drone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/Result.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -128,7 +142,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/Result.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -136,29 +150,55 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultType.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/RegularResultCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwtichCamera.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/AONResultCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultCreator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/Car.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/first/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/second/Sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -476,7 +516,6 @@
         <option value="$PROJECT_DIR$/src/test/java/Ejercicio2.java" />
         <option value="$PROJECT_DIR$/src/test/java/sum.java" />
         <option value="$PROJECT_DIR$/src/test/java/second/arp/Lot.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Sum.java" />
         <option value="$PROJECT_DIR$/src/test/java/CompareTriplets.java" />
         <option value="$PROJECT_DIR$/src/test/java/LongValuesSum.java" />
         <option value="$PROJECT_DIR$/src/test/java/OCPExercise.java" />
@@ -505,6 +544,13 @@
         <option value="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Car.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/AONResultCreator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/first/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Sum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/second/Sum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java" />
+        <option value="$PROJECT_DIR$/src/test/java/third/solid/srp/good/LotJavi.java" />
       </list>
     </option>
   </component>
@@ -555,7 +601,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="srp" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Course" type="b2602c69:ProjectViewProjectNode" />
@@ -563,8 +609,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="srp" type="462c0819:PsiDirectoryNode" />
-              <item name="isp" type="462c0819:PsiDirectoryNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Course" type="b2602c69:ProjectViewProjectNode" />
@@ -572,8 +617,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
               <item name="srp" type="462c0819:PsiDirectoryNode" />
-              <item name="ocp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -582,7 +627,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549187261344" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549189817515" />
     <property name="last_opened_file_path" value="D:/CleanerTest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -665,6 +710,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -731,78 +777,28 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/Ejercicio3.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocp/good/ResultType.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocp/good/ResultHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocp/good/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocp/good/RegularResultCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocp/good/ResultCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="105" selection-start-line="3" selection-start-column="105" selection-end-line="3" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ocp/good/AONResultCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/bad/SwitchRadio.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/SwitchRadio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Drone.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Drone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
@@ -846,14 +842,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwitchRadio.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwitchRadio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwtichCamera.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwtichCamera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
@@ -863,70 +859,167 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/VehicleActions.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/bad/VehicleActions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/VehicleActions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/Drone.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/Drone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/second/arp/Lot.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/RegularResultCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/AONResultCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/Result.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/first/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultType.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Sum.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/second/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="289">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/Lot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/good/LotJavi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
