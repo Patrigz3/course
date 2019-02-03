@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bca742d-3b47-4b19-ac9b-d43fe3bce046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/first/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/second/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/srp/good/LotJavi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/second/arp/Lot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/srp/Lot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Drone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/SwitchRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/SwitchRadio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/bad/VehicleActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/VehicleActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Drone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwitchRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwitchRadio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/SwtichCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwtichCamera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/isp/good/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/AONResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/AONResultCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/RegularResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/RegularResultCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultType.java" afterDir="false" />
-    </list>
+    <list default="true" id="1bca742d-3b47-4b19-ac9b-d43fe3bce046" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -554,7 +527,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -595,31 +568,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="solid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="srp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -627,7 +575,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549189817515" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549191578776" />
     <property name="last_opened_file_path" value="D:/CleanerTest" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -709,8 +657,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
