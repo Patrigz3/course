@@ -2,27 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bca742d-3b47-4b19-ac9b-d43fe3bce046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/DeploymentTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/third/solid/dip/good/EmailNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/internal/second/bad/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/internal/second/good/Addition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/CompareTriplets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/LongValuesSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/SimpleArraySum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/second/arp/ConsolePrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/second/arp/Lot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/second/arp/Printable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/second/arp/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hackerrank/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/DiagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/first/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/first/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/second/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/DeploymentTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/DeploymentTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/Mail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/Notifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/dip/good/EmailNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/dip/good/EmailNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/SwitchRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/SwitchRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/bad/VehicleActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/VehicleActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Drone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/Drone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwitchRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/SwitchRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwtichCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/SwtichCamera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/isp/good/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/ResultHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/ResultType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/AONResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/AONResultCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/RegularResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/RegularResultCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/srp/Lot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/srp/Lot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/srp/bad/LotJavi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/third/solid/srp/good/LotJavi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/internal/third/solid/srp/good/LotJavi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -120,68 +132,137 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="721289767">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="gradle" value="1" />
+          <entry key="java" value="11" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="11" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="3" />
+          <entry key="java" value="113" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="3" />
+          <entry key="JAVA" value="113" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwitchRadio.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Notifier.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/CompareTriplets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/first/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#1349#1350#0" expanded="true" />
+                <element signature="e#1421#1422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/second/bad/Addition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="74" lean-forward="true" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/second/good/Addition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/Result.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+              <folding>
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/ResultType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/VehicleActions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/good/EmailNotifier.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Mail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/DeploymentTracker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="2" selection-start-line="3" selection-start-column="30" selection-end-line="4" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/Car.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -197,6 +278,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/cleans-workspace" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -376,9 +462,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6197294611358" />
+        <entry key="$PROJECT_DIR$" value="6199164398664" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2389890936" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="346375562" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2889666467" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="4254111509" />
       </map>
@@ -500,14 +586,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/second/Lot.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Ejercicio2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/sum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/second/arp/Lot.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CompareTriplets.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LongValuesSum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/OCPExercise.java" />
-        <option value="$PROJECT_DIR$/src/test/java/third/srp/OCPExercise.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ocp/bad/OCPExercise.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/OCPExercise.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultType.java" />
@@ -534,7 +612,6 @@
         <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/bad/ResultHandler.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/ResultHandler.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/srp/ocp/good/AONResultCreator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/first/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/test/java/Sum.java" />
         <option value="$PROJECT_DIR$/src/test/java/second/Sum.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java" />
@@ -544,9 +621,22 @@
         <option value="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Notifier.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Mail.java" />
         <option value="$PROJECT_DIR$/src/test/java/third/solid/dip/good/EmailNotifier.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/src/test/java/hackerrank/DiagonalDifference.java" />
+        <option value="$PROJECT_DIR$/src/test/java/first/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/roche/vnv/first/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/roche/vnv/first/first/first/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/roche/vnv/first/first/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/first/solid/first/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/second/Sum.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/first/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/second/good/Sum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/second/bad/Addition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/second/good/Addition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/Result.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/ResultType.java" />
+        <option value="$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultType.java" />
       </list>
     </option>
   </component>
@@ -561,88 +651,119 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="gradle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="dip" type="462c0819:PsiDirectoryNode" />
+              <item name="isp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
               <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="dip" type="462c0819:PsiDirectoryNode" />
-              <item name="bad" type="462c0819:PsiDirectoryNode" />
+              <item name="isp" type="462c0819:PsiDirectoryNode" />
+              <item name="good" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="course" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="solid" type="462c0819:PsiDirectoryNode" />
+              <item name="ocp" type="462c0819:PsiDirectoryNode" />
+              <item name="good" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549786953859" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549793890599" />
     <property name="last_opened_file_path" value="D:/Cocktail" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\course\src\com\roche" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Course\src\test\java\third\srp\isp\good" />
       <recent name="D:\Course\src\test\java\third\srp\good" />
@@ -736,7 +857,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26812366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -753,7 +874,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.3438178" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3438178" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -801,14 +922,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/Ejercicio3.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Drone.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/Drone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
@@ -817,54 +938,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/first/Sum.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/third/srp/isp/good/VehicleActions.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/Result.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/first/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Sum.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/second/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/Lot.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/srp/Lot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
           <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/bad/LotJavi.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/srp/bad/LotJavi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/srp/good/LotJavi.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/srp/good/LotJavi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
@@ -873,21 +962,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/SimpleArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/LongValuesSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -898,136 +974,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/CompareTriplets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/Result.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/Result.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/RegularResultCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/RegularResultCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/AONResultCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/AONResultCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/good/ResultType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/ocp/bad/ResultHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/ResultHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/VehicleActions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/bad/SwitchRadio.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/SwitchRadio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/Drone.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/Drone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwtichCamera.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/SwtichCamera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Notifier.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/Notifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Phone.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/DeploymentTracker.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/DeploymentTracker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="2" selection-start-line="3" selection-start-column="30" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/bad/Mail.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/dip/bad/Mail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -1051,24 +1096,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/isp/good/SwitchRadio.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/good/SwitchRadio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/third/solid/dip/good/EmailNotifier.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/dip/good/EmailNotifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/Drone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/SwitchRadio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/LongValuesSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/hackerrank/CompareTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/first/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1421#1422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/second/good/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/second/bad/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="74" lean-forward="true" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/second/good/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+          <folding>
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/bad/ResultType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/isp/bad/VehicleActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/internal/third/solid/ocp/good/ResultType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
