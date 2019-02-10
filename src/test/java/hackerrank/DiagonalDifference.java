@@ -1,29 +1,32 @@
 package hackerrank;
 
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
-
+import java.util.Scanner;
 
 public class DiagonalDifference {
 
     // Complete the diagonalDifference function below.
-    static int diagonalDifference(int[][] arr) {
-        int lines = arr[0][0];
+    public static int DiagonalDifference(int[][] arr) {
         int firstDiagonal = 0;
         int secondDiagonal = 0;
-        for (int currentLine = 0; currentLine < lines; currentLine++) { //for (initialization; termination; increment)
-            firstDiagonal += arr[currentLine][currentLine];
-            secondDiagonal += arr[lines-currentLine][currentLine];
+        Scanner in = new Scanner(System.in);
+        int n = Integer.parseInt(in.nextLine());;
+
+        for (int i = 0; i < n; i++) { //for (initialization; termination; increment)
+            for (int j = 0; j < n; j++) {
+                if (i == j) {
+                    firstDiagonal += arr[i][j]; // if i=j incrementa la first diagonal
+                }
+                if (i + j == n - 1) {
+                    secondDiagonal += arr[i][j]; // if i+j = n-1 incrementa la segunda
+                }
+            }
         }
 
-        int ans = Math.abs(firstDiagonal-secondDiagonal);
-        return ans;
+        return Math.abs(firstDiagonal-secondDiagonal);
     }
+
+
 
     private static final Scanner scanner = new Scanner(System.in);
 
@@ -45,7 +48,7 @@ public class DiagonalDifference {
             }
         }
 
-        int result = diagonalDifference(arr);
+        int result = DiagonalDifference(arr);
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
